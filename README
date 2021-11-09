@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the the answer for the  Problem Set 2 Question 3
 
 
@@ -6,3 +7,10 @@ The goal of this code is to use the Pandas to download, clean merge the data fil
 The link for this file is : https://github.com/taoxx253/Stats507/blob/master/PS2%20-%20Q3.ipynb
 
 
+=======
+This is the the answer of Problem Set 2 Question 3
+
+The goal of this code is to use the Pandas to download, clean merge the data files of the demographic data and dentition data.
+
+The link for this file is : https://github.com/taoxx253/Stats507/blob/master/PS2%20-%20Q3.ipynb
+>>>>>>> 199c59f12fd8f536518367e4858ac0ab3a8ebc62
