@@ -1,4 +1,5 @@
-This is the Homework 6 for STATS 507
-Path:
+This is the the answer of Problem Set 2 Question 3
 
-/Users/liuyutao/Desktop/STATS507/HW6/Stats507
+The goal of this code is to use the Pandas to download, clean merge the data files of the demographic data and dentition data.
+
+The link for this file is : https://github.com/taoxx253/Stats507/blob/master/PS2%20-%20Q3.ipynb
